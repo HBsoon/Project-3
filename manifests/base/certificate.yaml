@@ -1,0 +1,8 @@
+apiVersion: networking.gke.io/v1
+kind: ManagedCertificate
+metadata:
+  name: hyyh-ssl
+  namespace: default
+spec:
+  domains:
+    - www.hwayangyeonhwa.store

@@ -1,0 +1,14 @@
+apiVersion: networking.gke.io/v1beta1
+kind: FrontendConfig
+metadata:
+  name: frontend-config
+  namespace: default
+spec:
+  sessionAffinity:
+    affinityType: "GENERATED_COOKIE"
+  securityPolicy:
+    name: "armor-policy"
+  redirectToHttps:
+    enabled: true
+  sslCertificates:
+    - name: "hyyh-ssl"
