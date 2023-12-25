@@ -3,6 +3,8 @@
 Total Architecture
 ![image](https://github.com/HBsoon/Project-3/assets/137377117/380dae04-e848-47f7-932b-105880a84050)
 
+주제: Prod와 Dev환경의 쇼핑몰 인프라 구축 & 재해 시 DR 이용한 서비스 복구
+
 ##
 Infra Architecture
 ![image](https://github.com/HBsoon/Project-3/assets/137377117/8a8f9add-a5c3-4ee7-9c57-836b6c653767)
