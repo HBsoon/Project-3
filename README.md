@@ -6,7 +6,7 @@ Total Architecture
 
 ##
 Infra Architecture
-![image](https://github.com/HBsoon/Project-3/assets/137377117/8a8f9add-a5c3-4ee7-9c57-836b6c653767
+![image](https://github.com/HBsoon/Project-3/assets/137377117/8a8f9add-a5c3-4ee7-9c57-836b6c653767)
 
 **접근**
 
