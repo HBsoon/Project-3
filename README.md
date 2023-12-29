@@ -37,8 +37,7 @@ CI Architecture
 ![image](https://github.com/HBsoon/Project-3/assets/137377117/69739729-a35f-4bae-983f-4605117dcbd2)
 
 - CI
-    - 소스 코드를 변경하고 Git hub에 push 시, Cloud build에서 설정된 트리거로 이미지를 build하고,
-      빌드된 이미지는 SHORT_SHA 변수로 랜덤 태그가 붙어 GAR에 저장
+    - 소스 코드를 변경하고 Git hub에 push 시, Cloud build에서 설정된 트리거로 이미지를 build하고, 빌드된 이미지는 SHORT_SHA 변수로 랜덤 태그가 붙어 GAR에 저장
 
 ##
 CD Architecture
