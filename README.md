@@ -4,13 +4,15 @@
 Total Architecture
 ![image](https://github.com/HBsoon/Project-3/assets/137377117/380dae04-e848-47f7-932b-105880a84050)
 
-- 유저: DNS를 통해 GLB의 Ingress를 따라 서비스 접속
-- 운영자: Bastion VM을 통해 Prod의 Cluster, SQL 제어 
-
 ##
 Infra Architecture
-![image](https://github.com/HBsoon/Project-3/assets/137377117/8a8f9add-a5c3-4ee7-9c57-836b6c653767)
+![image](https://github.com/HBsoon/Project-3/assets/137377117/8a8f9add-a5c3-4ee7-9c57-836b6c653767
 
+**접근**
+
+- User: DNS를 통해 GLB의 Ingress를 따라 서비스 접속
+- Ops: Bastion VM을 통해 Prod의 Cluster, SQL 제어
+  
 **설정**
 
 - 리전
